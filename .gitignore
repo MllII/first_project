@@ -25,3 +25,4 @@ Thumbs.db
 
 # Временные файлы проекта
 tmp_data.txt
+.env
